@@ -30,8 +30,8 @@ För att köra projektet krävs R samt följande paket:
 
 ## Körning
 
-1.  Klona eller ladda ner projektet\
-2.  Öppna projektet i RStudio\
+1.  Klona eller ladda ner projektet
+2.  Öppna projektet i RStudio
 3.  Kör (rendera) `report.qmd`
 
 Rapporten kör hela analysen från dataimport till färdiga resultat.
