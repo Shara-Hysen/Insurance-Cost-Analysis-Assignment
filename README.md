@@ -32,7 +32,7 @@ För att köra projektet krävs R samt följande paket:
 
 1.  Klona repo: git clone https://github.com/Shara-Hysen/Insurance-Cost-Analysis-Assignment.git
 2.  Öppna projektet i RStudio
-3.  Kör (rendera) `report.qmd`
+3.  Kör (rendera) `insurance_analysis.qmd`
 
 Rapporten kör hela analysen från dataimport till färdiga resultat.
 
